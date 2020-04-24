@@ -9,7 +9,7 @@ pandownload 1.1发布
      新增了网页登陆功能
      新增更新检测
      已支持XP系统
-![](https://github.com/XiaotianDong/tomb-of-pandownload/blob/master/photo/1-1.png)
+![](/photo/1-1.png)
 
 ### 2017-02-26
 
@@ -49,7 +49,7 @@ pandownload 1.4.3
     支持提取下载链接
     添加提示音效
     
-![](https://github.com/XiaotianDong/tomb-of-pandownload/blob/master/photo/1-4-3.png)
+![](/photo/1-4-3.png)
       
 ### 2017-11-22
 
@@ -94,7 +94,7 @@ pandownload 2.0.1
     新增批量重命名
     优化体验及Bug修复
     
-![](https://github.com/XiaotianDong/tomb-of-pandownload/blob/master/photo/2-0-1.png)
+![](/photo/2-0-1.png)
 
 ### 2018-09-29
 
@@ -154,7 +154,7 @@ pandownload 2.2.2
     界面优化
     修复Bug
     
-![](https://github.com/XiaotianDong/tomb-of-pandownload/blob/master/photo/2-2-2.png)
+![](/photo/2-2-2.png)
 
 ## 2020-02
 
@@ -164,7 +164,7 @@ pandownload 2.2.2
 
 ### 扬州警方跨省抓捕作者蔡某萌并发表微博，但后期微博被删
 
-![](https://github.com/XiaotianDong/tomb-of-pandownload/blob/master/photo/Weibo-posted-by-Yangzhou-Internet-Police.png)
+![](/photo/Weibo-posted-by-Yangzhou-Internet-Police.png)
 
 ## 2020-4-15至今
 ### 知乎上出现各种关于pandownload作者被抓的提问
